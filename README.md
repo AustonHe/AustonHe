@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, ***I'm Auston He🙇‍♂️, or Wenlong🐉!***
 
 <!--
 **AustonHe/AustonHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently(2026)…
+
+- **G8-G9** 🤓student in **BASIS International School Shenzhen**🏫
+- ***FRC TEAM 8214 Co-Driver/Programmer***💻️ (My Rookie Year!)
+- ***V5RC TEAM 10175G/10175A Driver/Programmer***💻️(Last Year Participating in VEX)
